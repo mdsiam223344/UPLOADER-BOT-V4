@@ -13,7 +13,7 @@
     "remote",
     "uploader"
   ],
-  "website": "https://t.me/UploadLinkToFileBot",
+  "website": "https://t.me/Ott_source_code_sellrobot_bot",
   "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V4",
   "env": {
     "WEBHOOK": {
@@ -22,35 +22,35 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "8535271767:AAGASCq-ncUEGY5IYnszNs_WOGQ8xlewOoY"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "24017397"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "0f2fe9bc1733e762a3ceef7c1372ce40"
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": ""
+      "value": "mongodb+srv://<db_username>:mfPTu9wBqeSKAJ6K@cluster0.g06khld.mongodb.net/"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001555873478"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": ""
+      "value": "-1001555873478"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "1686274364"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "Ott_source_code_sellrobot_bot"
     }
   },
   "addons": [
